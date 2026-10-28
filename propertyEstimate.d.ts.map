@@ -1,0 +1,1 @@
+{"version":3,"file":"propertyEstimate.d.ts","sourceRoot":"","sources":["../../../src/generated/types/propertyEstimate.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,MAAM,WAAW,gBAAgB;IAC/B,IAAI,EAAE,MAAM,CAAC;IACb,cAAc,EAAE,MAAM,CAAC;IACvB,eAAe,EAAE,MAAM,CAAC;IACxB,WAAW,EAAE,MAAM,CAAC;IACpB,cAAc,EAAE,MAAM,CAAC;IACvB,WAAW,EAAE,MAAM,EAAE,CAAC;IACtB,UAAU,EAAE,MAAM,CAAC;CACpB"}
